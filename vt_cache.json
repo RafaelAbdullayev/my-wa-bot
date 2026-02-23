@@ -1,0 +1,38 @@
+{
+  "chat.deepseek.com": {
+    "malicious": false,
+    "time": "2026-02-22T12:12:36.376415",
+    "stats": {
+      "malicious": 0,
+      "suspicious": 0,
+      "undetected": 0,
+      "harmless": 0,
+      "timeout": 0,
+      "confirmed_timeout": 0,
+      "failure": 0,
+      "type_unsupported": 0
+    }
+  },
+  "bit.ly": {
+    "malicious": false,
+    "time": "2026-02-22T12:12:52.557002",
+    "stats": {
+      "malicious": 0,
+      "suspicious": 0,
+      "undetected": 0,
+      "harmless": 0,
+      "timeout": 0
+    }
+  },
+  "example.xyz": {
+    "malicious": false,
+    "time": "2026-02-22T12:14:03.360169",
+    "stats": {
+      "malicious": 0,
+      "suspicious": 0,
+      "undetected": 0,
+      "harmless": 0,
+      "timeout": 0
+    }
+  }
+}
